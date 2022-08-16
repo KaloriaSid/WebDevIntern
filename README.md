@@ -1,0 +1,1 @@
+We developed a website for authentication as a team, complete with signup and login pages and bcrypt password security handling. In this project, the MongoDB database was used to validate the username and password. Sanitize user inputs as well before reading or inserting them into the database.
